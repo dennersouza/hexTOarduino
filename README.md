@@ -1,4 +1,4 @@
-# python
+# hexTOarduino
 Interface gráfica para programar Arduino.
 
 markdown
