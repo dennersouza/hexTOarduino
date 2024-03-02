@@ -28,36 +28,10 @@ Este é um programa Python que fornece uma interface gráfica para programar Ard
 Instale os Pré-requisitos:
 
 Certifique-se de ter o Python instalado.
-bash
-Copy code
-pip install -r requirements.txt
-Execute o Programa:
 
-
+Certifique-se de ter todas as dependências instaladas usando:
 Abra um terminal e execute os seguintes comandos:
-bash
-Copy code
 python.exe -m pip install --upgrade pip
 pip install pyserial
 
-bash
-Copy code
-python main.py
-Siga as Instruções:
-
-Use a interface gráfica para configurar e programar o Arduino.
-Pré-requisitos
-Python 3.x
-Outros pré-requisitos, se houver.
-Exemplos de Uso
-bash
-Copy code
-python main.py
-Configuração do Ambiente
-Certifique-se de ter todas as dependências instaladas usando:
-
-bash
-Copy code
-pip install -r requirements.txt
-Contribuições e Problemas
 Sinta-se à vontade para contribuir para este projeto ou relatar problemas. Abra uma issue ou envie um pull request.
