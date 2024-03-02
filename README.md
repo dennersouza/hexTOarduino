@@ -23,8 +23,8 @@ Este é um programa Python que fornece uma interface gráfica para programar Ard
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/dennersouza/hexTOarduino.git
+   cd https://github.com/dennersouza
 Instale os Pré-requisitos:
 
 Certifique-se de ter o Python instalado.
@@ -32,6 +32,13 @@ bash
 Copy code
 pip install -r requirements.txt
 Execute o Programa:
+
+
+Abra um terminal e execute os seguintes comandos:
+bash
+Copy code
+python.exe -m pip install --upgrade pip
+pip install pyserial
 
 bash
 Copy code
